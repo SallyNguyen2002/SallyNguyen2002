@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello, world! 👋
 
 <!--
 **SallyNguyen2002/SallyNguyen2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
