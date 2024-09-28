@@ -4,6 +4,7 @@
 
 An energetic, ambitious, and outgoing student pursuing a major in User Experience within the Interactive Design program at SAIT. I love vibrant experiences, engaging in life eagerly and taking pleasure in discovering the unknown.
 
+
 ## 😄 Personality
 
 ### ESFP
@@ -17,6 +18,12 @@ An energetic, ambitious, and outgoing student pursuing a major in User Experienc
 - **Sensitive to feedback**: Take criticism personally, as they value harmony.
 - **Adaptable**: Can quickly adjust to changing situations and environments.
 - **Creative problem-solvers**: Come up with unique solutions in the heat of the moment.
+
+
+## ⚡ My Porfolio
+
+This is my [porfolio](https://www.behance.net/sallynguyen5) to some creative products that I did before.
+
 
 ## Experience
 
@@ -122,6 +129,11 @@ Graphic Design / Web Design / 3D Design
 Study three years in Boston, US 
 
 
+## Personal Information
+
+**Email**: anh.sally1508@gmail.com
+
+**Phone Number**: +1 825 747 0889
 
 <!--
 **SallyNguyen2002/SallyNguyen2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
