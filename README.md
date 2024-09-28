@@ -4,6 +4,20 @@
 
 An energetic, ambitious, and outgoing student pursuing a major in User Experience within the Interactive Design program at SAIT. I love vibrant experiences, engaging in life eagerly and taking pleasure in discovering the unknown.
 
+## 😄 Personality
+
+### ESFP
+
+- **Outgoing and social**: Thrive in social settings, enjoying interactions with others.
+- **Energetic and enthusiastic**: Bring energy and excitement to activities and tasks.
+- **Spontaneous**: Prefer to live in the moment and go with the flow.
+- **People-focused**: Strongly attuned to the feelings and needs of others.
+- **Enjoys new experiences**: Always looking for novel and exciting things to try.
+- **Practical and hands-on**: Prefer learning through experience rather than abstract concepts.
+- **Sensitive to feedback**: Take criticism personally, as they value harmony.
+- **Adaptable**: Can quickly adjust to changing situations and environments.
+- **Creative problem-solvers**: Come up with unique solutions in the heat of the moment.
+
 ## Experience
 
 **StudyLink Company, Finance/Partnership**
