@@ -25,7 +25,7 @@ An energetic, ambitious, and outgoing student pursuing a major in User Experienc
 This is my [porfolio](https://www.behance.net/sallynguyen5) to some creative products that I did before.
 
 
-## Experience
+## 👩‍💻 Experience
 
 **StudyLink Company, Finance/Partnership**
 
@@ -98,7 +98,7 @@ Oct 2023 - now
 Experience in front and back-of-house operations, providing excellent customer service, managing orders, and supporting efficient kitchen workflow in fast-paced environments.
 
 
-## Education
+## 🏫 Education
 
 **SAIT**
 
@@ -129,7 +129,7 @@ Graphic Design / Web Design / 3D Design
 Study three years in Boston, US 
 
 
-## Personal Information
+## 📞 Personal Information
 
 **Email**: anh.sally1508@gmail.com
 
