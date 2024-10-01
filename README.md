@@ -28,7 +28,9 @@ This is my [porfolio](https://www.behance.net/sallynguyen5) to some creative pro
 ## 👩‍💻 Experience
 
 **StudyLink Company, Finance/Partnership**
+<br>
 2020-2021
+<br>
 Process invoices and school agreements
 
 **StudyLink Company, Graphic Designer**
