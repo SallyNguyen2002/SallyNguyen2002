@@ -34,63 +34,87 @@ This is my [porfolio](https://www.behance.net/sallynguyen5) to some creative pro
 Process invoices and school agreements
 
 **StudyLink Company, Graphic Designer**
+<br>
 2021-2023
+<br>
 Design collaterals, such as advertisements,
 flyers, backdrops, newsletters, letterhead, etc.
 
 **The Daily Brew, Barista/Cashier**
+<br>
 2023
+<br>
 Prepare espresso-based coffee, manage
 storage and collect payments
 
-**Fundraiser Events**
-Waitress
+**Fundraiser Events, Waitress**
+<br>
 2019-2020
+<br>
 Serve 3-course meals at Fundraiser
 Dinner Events with choices of menu
 
 **Cambridge Health Alliance, Hospital Front Desk**
+<br>
 2018-2019
+<br>
 Guide people with directions and help
 them with doctor appointments.
 
 **Tutor**
+<br>
 2018-2020
+<br>
 Coach secondary students with their
 homeworks and understand class notes
 
 **Fidelity House, Community Center Assistance**
+<br>
 2018-2020
+<br>
 Take care of children in Preschool &
 Pre-Kindergarten Program
 
 **Cornerstone Music Cafe, Barista**
+<br>
 Oct 2023 - Dec 2023
+<br>
 Prepare espresso-based coffee, prepare food, manage
 storage, collect payments, organize events
 
 **Rau Bistro, Front and back staff**
+<br>
 Oct 2023 - now
+<br>
 Experience in front and back-of-house operations, providing excellent customer service, managing orders, and supporting efficient kitchen workflow in fast-paced environments.
 
 
 ## 🏫 Education
 
 **SAIT**
+<br>
 2024-now
+<br>
 Interactive Design Diploma
+<br>
 Uxer Experience
 
 **Bow Valley College**
+<br>
 2023-2024
+<br>
 3D Animation and Modeling
 
 **Multimedia Arena / Diploma**
+<br>
 2021-2023
+<br>
 Graphic Design / Web Design / 3D Design
 
 **US High School Diploma**
+<br>
 2017-2020
+<br>
 Study three years in Boston, US 
 
 
